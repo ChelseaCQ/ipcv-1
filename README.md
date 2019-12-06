@@ -1,4 +1,4 @@
-#  Detecting Dart Boards
+#  Horizontal Scaling for an Embarrassingly Parallel Task:Blockchain Proof-of-Work in the Cloud
 - created using C++ and OpenCV2.
 - See the included report for a full writeup
 #  Setup
